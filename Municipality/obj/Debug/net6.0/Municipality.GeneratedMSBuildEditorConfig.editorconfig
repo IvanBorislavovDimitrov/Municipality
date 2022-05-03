@@ -8,61 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Municipality
 build_property.RootNamespace = Municipality
-build_property.ProjectDir = C:\Users\Mili\Desktop\Municipality\Municipality\
+build_property.ProjectDir = C:\Users\ivan\projects\Municipality\Municipality\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Mili\Desktop\Municipality\Municipality
+build_property.MSBuildProjectDirectory = C:\Users\ivan\projects\Municipality\Municipality
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Mili/Desktop/Municipality/Municipality/Views/AboutUs/AboutUs.cshtml]
+[C:/Users/ivan/projects/Municipality/Municipality/Views/AboutUs/AboutUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRVc1xBYm91dFVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mili/Desktop/Municipality/Municipality/Views/Administration/Administration.cshtml]
+[C:/Users/ivan/projects/Municipality/Municipality/Views/Administration/Administration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYXRpb25cQWRtaW5pc3RyYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mili/Desktop/Municipality/Municipality/Views/Contacts/Contacts.cshtml]
+[C:/Users/ivan/projects/Municipality/Municipality/Views/Contacts/Contacts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcQ29udGFjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mili/Desktop/Municipality/Municipality/Views/Gallery/Gallery.cshtml]
+[C:/Users/ivan/projects/Municipality/Municipality/Views/Gallery/Gallery.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsbGVyeVxHYWxsZXJ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mili/Desktop/Municipality/Municipality/Views/Home/Index.cshtml]
+[C:/Users/ivan/projects/Municipality/Municipality/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mili/Desktop/Municipality/Municipality/Views/News/Detail.cshtml]
+[C:/Users/ivan/projects/Municipality/Municipality/Views/News/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mili/Desktop/Municipality/Municipality/Views/News/Index.cshtml]
+[C:/Users/ivan/projects/Municipality/Municipality/Views/News/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mili/Desktop/Municipality/Municipality/Views/Shared/Error.cshtml]
+[C:/Users/ivan/projects/Municipality/Municipality/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mili/Desktop/Municipality/Municipality/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ivan/projects/Municipality/Municipality/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mili/Desktop/Municipality/Municipality/Views/Useful/Useful.cshtml]
+[C:/Users/ivan/projects/Municipality/Municipality/Views/Useful/Useful.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlZnVsXFVzZWZ1bC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mili/Desktop/Municipality/Municipality/Views/_ViewImports.cshtml]
+[C:/Users/ivan/projects/Municipality/Municipality/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mili/Desktop/Municipality/Municipality/Views/_ViewStart.cshtml]
+[C:/Users/ivan/projects/Municipality/Municipality/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mili/Desktop/Municipality/Municipality/Views/Shared/_Layout.cshtml]
+[C:/Users/ivan/projects/Municipality/Municipality/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-djb0t7hdza

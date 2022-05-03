@@ -123,19 +123,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mili\\.nuget\\packages\\": {}
+    "C:\\Users\\ivan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mili\\Desktop\\Municipality\\Municipality\\Municipality.csproj",
+      "projectUniqueName": "C:\\Users\\ivan\\projects\\Municipality\\Municipality\\Municipality.csproj",
       "projectName": "Municipality",
-      "projectPath": "C:\\Users\\Mili\\Desktop\\Municipality\\Municipality\\Municipality.csproj",
-      "packagesPath": "C:\\Users\\Mili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mili\\Desktop\\Municipality\\Municipality\\obj\\",
+      "projectPath": "C:\\Users\\ivan\\projects\\Municipality\\Municipality\\Municipality.csproj",
+      "packagesPath": "C:\\Users\\ivan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ivan\\projects\\Municipality\\Municipality\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -184,7 +184,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   },

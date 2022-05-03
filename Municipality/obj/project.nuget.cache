@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xJPl1rM2PO/5mFlKLgXz1Kn8/denADmOFtPsswmlgTLICcztY1wYEtYRsI086YVBO7ikU4uyOvWSf0YM8j9n4A==",
+  "dgSpecHash": "vGIBaiiF4d2D7NEu/+ENFG2SLfDBe1QZzArHz+c5tp1u/7loBx+lgc5vq7G0kOXyvK+cp5GpdBEADV1ZgWsZ0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mili\\Desktop\\Municipality\\Municipality\\Municipality.csproj",
+  "projectFilePath": "C:\\Users\\ivan\\projects\\Municipality\\Municipality\\Municipality.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Mili\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",
-    "C:\\Users\\Mili\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.7\\microsoft.aspnet.razor.3.2.7.nupkg.sha512",
-    "C:\\Users\\Mili\\.nuget\\packages\\microsoft.aspnet.webpages\\3.2.7\\microsoft.aspnet.webpages.3.2.7.nupkg.sha512",
-    "C:\\Users\\Mili\\.nuget\\packages\\microsoft.web.infrastructure\\1.0.0\\microsoft.web.infrastructure.1.0.0.nupkg.sha512"
+    "C:\\Users\\ivan\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",
+    "C:\\Users\\ivan\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.7\\microsoft.aspnet.razor.3.2.7.nupkg.sha512",
+    "C:\\Users\\ivan\\.nuget\\packages\\microsoft.aspnet.webpages\\3.2.7\\microsoft.aspnet.webpages.3.2.7.nupkg.sha512",
+    "C:\\Users\\ivan\\.nuget\\packages\\microsoft.web.infrastructure\\1.0.0\\microsoft.web.infrastructure.1.0.0.nupkg.sha512"
   ],
   "logs": [
     {
