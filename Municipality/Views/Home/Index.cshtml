@@ -1,0 +1,82 @@
+﻿@{
+    ViewData["Title"] = "На Фокус";
+}
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+<div id="demo" class="carousel slide" data-ride="carousel">
+
+    <!-- Indicators -->
+    <ul class="carousel-indicators">
+        <li data-target="#demo" data-slide-to="0" class="active"></li>
+        <li data-target="#demo" data-slide-to="1"></li>
+        <li data-target="#demo" data-slide-to="2"></li>
+    </ul>
+
+    <!-- The slideshow -->
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img height="540" width="1080" src="~/carousel/1.jpg" alt="Los Angeles">
+        </div>
+        <div class="carousel-item">
+            <img height="540" width="1080" src="~/carousel/2.jpg" alt="Chicago">
+        </div>
+        <div class="carousel-item">
+            <img height="540" width="1080" src="~/carousel/3.jpg" alt="New York">
+        </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="carousel-control-prev" href="#demo" data-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+    </a>
+    <a class="carousel-control-next" href="#demo" data-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </a>
+
+</div>
+
+<br/>
+<h1>@ViewData["Title"]</h1>
+
+<div class="container px-4 px-lg-5">
+    <!-- Heading Row-->
+    <div class="row gx-4 gx-lg-5 align-items-center my-5">
+        <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="~/images/9.jpg" alt="..." /></div>
+        <div class="col-lg-5">
+            <h1 class="font-weight-light">Кампания "Екоучилище"</h1>
+            <p>Екопак България и Община Пещера организират кампания „Екоучилище“, за обучение и мотивиране на учениците за разделното събиране и последващо рециклиране. Кампанията ще бъде с начало 30.03.2022г. и ще продължи 1 месец, до 30.04.2022г. включително. Ще се проведе в училищата на територията на Община Пещера.</p>
+            <a asp-controller="News" asp-action="Detail" asp-route-id="1" class="btn btn-primary">Прочети повече</a>
+        </div>
+    </div>
+    <h1>Последно</h1><br />
+    <div class="row gx-4 gx-lg-5">
+        <div class="col-md-4 mb-5">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h2 class="card-title">В Пещера прерязаха лентата на обновената ул. „Петър Раков“</h2>
+                    <p class="card-text">Изцяло ремонтираната улица, свъзрваща кв. „Луковица“ с града, бе официално открита с церемония в началото на пещерския квартал. По време на встъпителните думи стана ясно, че 2 500 000 лв. от държавния бюджет през 2020 г. са били заделени за реконструкция и ремонт на републикански път, както и за обновяване на ул. „Петър Раков“.</p>
+                </div>
+                <div class="card-footer"><a asp-controller="News" asp-action="Detail" asp-route-id="2" class="btn btn-primary btn-sm">Прочети повече</a></div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-5">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h2 class="card-title">Тийнейджър се опита да подкупи с евро и левове полицаи в Пещера</h2>
+                    <p class="card-text">Непълнолетен е задържан при опит да подкупи полицаи от РУ-Пещера. Случката се разиграла в петък късно вечерта на една от улиците в родопския град. Автопатрул при полицейското управление в Пещера спрял за проверка лек автомобил „Фолксваген“.</p>
+                </div>
+                <div class="card-footer"><a asp-controller="News" asp-action="Detail" asp-route-id="3" class="btn btn-primary btn-sm">Прочети повече</a></div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-5">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h2 class="card-title">Златни медали за певци и танцьори от New Art Center Пещера</h2>
+                    <p class="card-text">В Елин Пелин се проведе Фолклорен фестивал „Лазарица“, от който децата на New Art Center Peshtera се завърнаха със златни медали.</p>
+                </div>
+                <div class="card-footer"><a asp-controller="News" asp-action="Detail" asp-route-id="4" class="btn btn-primary btn-sm">Прочети повече</a></div>
+            </div>
+        </div>
+    </div>
+</div>

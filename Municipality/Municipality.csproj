@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\carousel\1.jpg" />
+    <Content Remove="wwwroot\carousel\2.jpg" />
+    <Content Remove="wwwroot\carousel\3.jpg" />
+    <Content Remove="wwwroot\images\1.jpg" />
+    <Content Remove="wwwroot\images\2.jpg" />
+    <Content Remove="wwwroot\images\3.jpg" />
+    <Content Remove="wwwroot\images\4.jpg" />
+    <Content Remove="wwwroot\images\5.jpg" />
+    <Content Remove="wwwroot\images\6.jpg" />
+    <Content Remove="wwwroot\images\7.jpg" />
+    <Content Remove="wwwroot\images\8.jpg" />
+    <Content Remove="wwwroot\js\Scripts\fancybox.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\carousel\1.jpg" />
+    <None Include="wwwroot\carousel\2.jpg" />
+    <None Include="wwwroot\carousel\3.jpg" />
+    <None Include="wwwroot\images\1.jpg" />
+    <None Include="wwwroot\images\2.jpg" />
+    <None Include="wwwroot\images\3.jpg" />
+    <None Include="wwwroot\images\4.jpg" />
+    <None Include="wwwroot\images\5.jpg" />
+    <None Include="wwwroot\images\6.jpg" />
+    <None Include="wwwroot\images\7.jpg" />
+    <None Include="wwwroot\images\8.jpg" />
+    <None Include="wwwroot\js\Scripts\fancybox.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.7" />
+  </ItemGroup>
+
+</Project>
